@@ -1,0 +1,11 @@
+[
+  {"name":"3blocks","region":"eu","tiers":{"bedfight":"HT2","classic":"HT3","fireball":"LT3","bridge":"HT3","sumo":"LT2","boxing":"LT3","nodebuff":"LT3","builduhc":"LT3"}},
+  {"name":"lining","region":"as","tiers":{"bedfight":"LT2","classic":"HT3","bridge":"LT3","sumo":"LT2","builduhc":"HT3"}},
+  {"name":"pqmaimai7","region":"na","tiers":{"bedfight":"LT3","classic":"LT3","fireball":"LT3","bridge":"LT3","sumo":"HT3","nodebuff":"LT2","builduhc":"LT3","boxing":"LT3"}},
+  {"name":"miracalis","region":"na","tiers":{"sumo":"LT2","nodebuff":"LT2","boxing":"HT3","classic":"LT3","builduhc":"LT3"}},
+  {"name":"1akes","region":"na","tiers":{"builduhc":"LT2","classic":"LT3","sumo":"LT3","boxing":"LT3"}},
+  {"name":"nighterv10","region":"na","tiers":{"bedfight":"LT2","sumo":"HT4"}},
+  {"name":"shizeen","region":"as","tiers":{"sumo":"LT2"}},
+  {"name":"skibidibossmc","region":"as","tiers":{"sumo":"HT3"}},
+  {"name":"anles_gamer7199","region":"as","tiers":{"sumo":"LT3"}}
+]
