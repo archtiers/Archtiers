@@ -116,5 +116,18 @@
     "tiers": {
       "sumo": "HT3"
     }
+  },
+  {
+    "name": "iiskinny",
+    "region": "na",
+    "tiers": {
+      "bedfight": "HT3",
+      "classic": "LT2",
+      "bridge": "LT3",
+      "sumo": "LT3",
+      "boxing": "LT3",
+      "nodebuff": "LT3",
+      "builduhc": "HT3"
+    }
   }
 ]
