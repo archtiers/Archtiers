@@ -105,5 +105,16 @@
     "tiers": {
       "bedfight": "HT3"
     }
+  },
+  {
+    "name": "st3fqns",
+    "region": "as",
+    "tiers": {
+      "bedfight": "LT2",
+      "classic": "HT3",
+      "bridge": "LT3",
+      "sumo": "LT2",
+      "builduhc": "LT2"
+    }
   }
 ]
