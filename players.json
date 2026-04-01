@@ -109,5 +109,12 @@
       "sumo": "LT2",
       "builduhc": "LT2"
     }
+  },
+  {
+    "name": "Anles_gamer",
+    "region": "na",
+    "tiers": {
+      "sumo": "LT3"
+    }
   }
 ]
