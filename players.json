@@ -109,5 +109,12 @@
       "bedfight": "LT2",
       "sumo": "LT3"
     }
+  },
+  {
+    "name": "superplayer4",
+    "region": "na",
+    "tiers": {
+      "bedfight": "HT3"
+    }
   }
 ]
