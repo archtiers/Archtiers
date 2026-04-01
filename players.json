@@ -101,5 +101,19 @@
       "nodebuff": "LT3",
       "builduhc": "LT3"
     }
+  },
+  {
+    "name": "LOCALBOII",
+    "region": "na",
+    "tiers": {
+      "bedfight": "HT1",
+      "classic": "HT1",
+      "fireball": "HT1",
+      "bridge": "HT1",
+      "sumo": "HT1",
+      "boxing": "HT1",
+      "nodebuff": "HT1",
+      "builduhc": "HT1"
+    }
   }
 ]
