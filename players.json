@@ -129,5 +129,14 @@
       "nodebuff": "LT3",
       "builduhc": "HT3"
     }
+  },
+  {
+    "name": "Cr7Basel",
+    "region": "na",
+    "tiers": {
+      "bedfight": "HT3",
+      "classic": "LT3",
+      "builduhc": "HT4"
+    }
   }
 ]
