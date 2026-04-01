@@ -138,5 +138,13 @@
       "classic": "LT3",
       "builduhc": "HT4"
     }
+  },
+  {
+    "name": "King_Ealt",
+    "region": "na",
+    "tiers": {
+      "bedfight": "HT3",
+      "sumo": "LT3"
+    }
   }
 ]
