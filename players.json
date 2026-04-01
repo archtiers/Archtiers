@@ -101,5 +101,13 @@
       "nodebuff": "LT3",
       "builduhc": "LT3"
     }
+  },
+  {
+    "name": "monomat",
+    "region": "na",
+    "tiers": {
+      "bedfight": "LT2",
+      "sumo": "LT3"
+    }
   }
 ]
