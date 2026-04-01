@@ -153,5 +153,15 @@
     "tiers": {
       "sumo": "HT3"
     }
+  },
+  {
+    "name": "Tosty",
+    "region": "na",
+    "tiers": {
+      "bedfight": "LT3",
+      "bridge": "HT3",
+      "sumo": "LT4",
+      "nodebuff": "LT3"
+    }
   }
 ]
