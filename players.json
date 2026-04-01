@@ -64,13 +64,6 @@
     }
   },
   {
-    "name": "skibidibossmc",
-    "region": "as",
-    "tiers": {
-      "sumo": "HT3"
-    }
-  },
-  {
     "name": "Twerxi",
     "region": "as",
     "tiers": {
