@@ -146,5 +146,12 @@
       "bedfight": "HT3",
       "sumo": "LT3"
     }
+  },
+  {
+    "name": "Lrrys",
+    "region": "na",
+    "tiers": {
+      "sumo": "HT3"
+    }
   }
 ]
