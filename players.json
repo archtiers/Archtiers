@@ -163,5 +163,12 @@
       "sumo": "LT4",
       "nodebuff": "LT3"
     }
+  },
+  {
+    "name": "Soeinchef",
+    "region": "na",
+    "tiers": {
+      "sumo": "HT1"
+    }
   }
 ]
