@@ -67,8 +67,8 @@
     "name": "Twerxi",
     "region": "as",
     "tiers": {
-      "bedfight": "LT4",
-      "classic": "HT3",
+      "bedfight": "LT3",
+      "classic": "HT2",
       "fireball": "LT5",
       "bridge": "LT5",
       "sumo": "LT1",
